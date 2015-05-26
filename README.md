@@ -10,7 +10,7 @@
 Licensed under the The MIT License (MIT).
 In others words, you can use this library for developement any kind of software: open source, commercial, proprietary and alien.
 
-## Implementations / Flavors ##
+## Implementations / Flavors :doughnut: :icecream: :ice_cream: :shaved_ice: 
 
 **MongoDB** ( `MongoDBRepositoryBase` )
 
