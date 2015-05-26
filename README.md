@@ -61,7 +61,7 @@ PM> Install-Package Skahal.Infrastructure.Repositories.Dropbox
 - Tests coveraged 
 - Good (and well used) design patterns
  		
-## How to improve it? ##
+## How to improve it? :bulb:
 
 Create a fork of [Skahal.Infrastructure.Repositories](https://github.com/skahal/Skahal.Infrastructure.Repositories/fork). 
 
